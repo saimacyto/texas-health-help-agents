@@ -16,3 +16,10 @@ Only the Apache 2.0 skills from the Anthropic repo are included. The document sk
 - Public benefit information only. Share source links and let people verify.
 - Eligibility rules change. A navigator confirms eligibility for each family.
 - No medical advice. Clinical questions go to a clinician.
+
+## Skills adapted from awesome-llm-apps
+
+- `.claude/skills/thh-document-qa`: answers from provided documents, with citations.
+- `.claude/skills/thh-source-check`: checks draft claims against official Texas Health Help sources.
+
+Both are adapted from Apache 2.0 workflows in [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps). See `THIRD_PARTY_NOTICES.md`.

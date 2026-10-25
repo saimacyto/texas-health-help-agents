@@ -403,3 +403,15 @@ This license becomes null and void if any of the above conditions are not met.
 DISCLAIMER
 
 THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.  
+---
+
+## awesome-llm-apps (Apache 2.0)
+
+Source: https://github.com/Shubhamsaboo/awesome-llm-apps (Apache License 2.0)
+
+The following skills were written by adapting the workflows in this repository. No code was copied; each skill's `license` field credits the app it is based on.
+
+- `.claude/skills/thh-document-qa`: based on `rag_tutorials/hybrid_search_rag` and `rag_tutorials/local_rag_agent`.
+- `.claude/skills/thh-source-check`: based on `rag_tutorials/corrective_rag`.
+
+The full Apache 2.0 license text is available at https://www.apache.org/licenses/LICENSE-2.0.
